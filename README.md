@@ -1,2 +1,4 @@
 # Python_Olympic_Games_Analysis
-Olympic games analysis using Python
+
+This project focuses on analyzing historical Olympics data to uncover 
+insights and patterns related to athletes, countries, and sports.
